@@ -85,6 +85,7 @@
     "tag": "edge"
   },
   "blueprint": {
+    "boilerplate": true,
     "description": "Boilerplate / starting point / instructions for creating a Dockerfile",
     "github_id": "R_kgDOHOSuRg",
     "gitlab_group_id": "11579735",
