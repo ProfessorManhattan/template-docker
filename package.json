@@ -78,7 +78,7 @@
     "node": ">=14.18.0"
   },
   "publishConfig": {
-    "@gitlab:registry": "https://gitlab.com/api/v4/projects//packages/npm/",
+    "@gitlab:registry": "https://gitlab.com/api/v4/projects/31678886/packages/npm/",
     "@megabyte:registry": "https://gitlab.com/api/v4/projects/32219047/packages/npm/",
     "access": "public",
     "registry": "https://registry.npmjs.org/",
@@ -86,6 +86,9 @@
   },
   "blueprint": {
     "description": "Boilerplate / starting point / instructions for creating a Dockerfile",
+    "github_id": "R_kgDOHOSuRg",
+    "gitlab_group_id": "11579735",
+    "gitlab_project_id": "31678886",
     "group": "docker",
     "name": "Dockerfile",
     "overview": "This repository is the starting template for [Megabyte Labs](https://megabyte.space) Dockerfile repositories. **Read this document** before developing. There are important instructions on how to utilize pre-made build steps, details on compiling the repository from seed data, and instructions on how to implement test cases without reinventing the wheel.",
@@ -95,10 +98,7 @@
     },
     "slug": "template-docker",
     "subgroup": "app",
-    "title": "Instructions / Starting Template for Designing a Dockerfile",
-    "github_id": "R_kgDOHOSuRg",
-    "gitlab_project_id": "31678886",
-    "gitlab_group_id": "11579735"
+    "title": "Instructions / Starting Template for Designing a Dockerfile"
   },
   "changelog": {
     "displayTypes": [
