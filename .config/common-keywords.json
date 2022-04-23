@@ -1,15 +1,11 @@
 {
   "keywords": [
-    "ci",
-    "codeclimate",
+    "app",
     "container",
     "docker",
     "dockerfile",
-    "gitlab",
-    "gitlab-ci",
     "mblabs",
     "megabytelabs",
-    "pipeline",
     "professormanhattan",
     "virtualization",
     "washingtondc"
