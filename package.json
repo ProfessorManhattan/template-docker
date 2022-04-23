@@ -95,7 +95,10 @@
     },
     "slug": "template-docker",
     "subgroup": "app",
-    "title": "Instructions / Starting Template for Designing a Dockerfile"
+    "title": "Instructions / Starting Template for Designing a Dockerfile",
+    "github_id": "R_kgDOHOSuRg",
+    "gitlab_project_id": "31678886",
+    "gitlab_group_id": "11579735"
   },
   "changelog": {
     "displayTypes": [
